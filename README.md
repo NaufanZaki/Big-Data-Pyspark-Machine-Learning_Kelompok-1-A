@@ -16,3 +16,5 @@
         <p style="color: #ffffff; font-size: 1.5em; margin: 10px 0;">NRP 5027221048</p>
     </div>
 </div>
+
+https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
